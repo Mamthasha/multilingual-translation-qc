@@ -1,0 +1,27 @@
+[
+  {
+    "id": "T001",
+    "type": "caption",
+    "text": "Subscribe for more travel vlogs every Friday!"
+  },
+  {
+    "id": "T002",
+    "type": "name_entity",
+    "text": "Hello, my name is Mamthasha and I study at SASTRA University."
+  },
+  {
+    "id": "T003",
+    "type": "date_number",
+    "text": "The event starts on 15 September 2026 at 6:30 PM."
+  },
+  {
+    "id": "T004",
+    "type": "units",
+    "text": "The package weighs 12.5 kg and costs 499 rupees."
+  },
+  {
+    "id": "T005",
+    "type": "url_hashtag",
+    "text": "Check out https://sastra.edu and follow #placement2027 for updates."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "es",
+    "translated_text": "¡Suscríbase para más vlogs de viajes cada viernes!",
+    "review_status": "ok"
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "es",
+    "translated_text": "Hola, mi nombre es Mamthasha y estudio en SASTRA University.",
+    "review_status": "ok"
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "es",
+    "translated_text": "El evento comienza en 15 Septiembre 2026 en 6:30 PM.",
+    "review_status": "ok"
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "es",
+    "translated_text": "El paquete pesa 12.5 kg y cuesta 499 rupias.",
+    "review_status": "ok"
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "es",
+    "translated_text": "Echa un vistazo a https://sastra.edu y sigue #placement2027 para obtener actualizaciones.",
+    "review_status": "ok"
+  }
+]

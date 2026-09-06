@@ -1,0 +1,60 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "bn",
+    "translated_text": "প্রতি শুক্রবার আরো ভ্রমণের জন্য সাবস্ক্রাইব করুন!",
+    "route": "Helsinki-NLP/opus-mt-en-inc",
+    "review_status": "ok",
+    "runtime_sec": 15.953,
+    "warnings": []
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "bn",
+    "translated_text": "হ্যালো, আমার নাম এক্সএক্সিটিঅন্যাক্স এবং আমি এক্সএক্সিটিজেনজেয়ারক্সে পড়াশোনা করি।",
+    "route": "Helsinki-NLP/opus-mt-en-inc",
+    "review_status": "flagged",
+    "runtime_sec": 4.098,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "bn",
+    "translated_text": "এই ঘটনার শুরু এক্সএক্সটিএক্স সেপ্টেম্বর XxEntityTOxX:XEntryOxX:XEntryZEROx PMM-এ শুরু হয়।",
+    "route": "Helsinki-NLP/opus-mt-en-inc",
+    "review_status": "flagged",
+    "runtime_sec": 7.792,
+    "warnings": [
+      "4 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "bn",
+    "translated_text": "প্যাকেজের ওজন XxEntityOxX কিলোবাইট এবং XxEntityZEROX রুপ।",
+    "route": "Helsinki-NLP/opus-mt-en-inc",
+    "review_status": "flagged",
+    "runtime_sec": 4.983,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "bn",
+    "translated_text": "এক্সঅভ্যন্তররীণ পরীক্ষা করে আপডেটের জন্য XxEntityOnx অনুসরণ করুন।",
+    "route": "Helsinki-NLP/opus-mt-en-inc",
+    "review_status": "flagged",
+    "runtime_sec": 3.814,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  }
+]

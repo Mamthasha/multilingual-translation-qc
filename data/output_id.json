@@ -1,0 +1,60 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "id",
+    "translated_text": "Berlangganan untuk lebih banyak vlog perjalanan setiap Jumat!",
+    "route": "Helsinki-NLP/opus-mt-en-id",
+    "review_status": "ok",
+    "runtime_sec": 27.832,
+    "warnings": []
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "id",
+    "translated_text": "Halo, nama saya Mamthasha dan saya belajar di XxEntityZEX.",
+    "route": "Helsinki-NLP/opus-mt-en-id",
+    "review_status": "flagged",
+    "runtime_sec": 10.409,
+    "warnings": [
+      "1 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "id",
+    "translated_text": "Acara dimulai pada XxEntityTHREX September XxEnterityTWOxX di XxEnterityONExX:XxEntityZEX PM.",
+    "route": "Helsinki-NLP/opus-mt-en-id",
+    "review_status": "flagged",
+    "runtime_sec": 14.185,
+    "warnings": [
+      "4 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "id",
+    "translated_text": "Paket itu beratnya XxEntiityONEx kg dan biaya XxEnterityZEROX rupees.",
+    "route": "Helsinki-NLP/opus-mt-en-id",
+    "review_status": "flagged",
+    "runtime_sec": 10.278,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "id",
+    "translated_text": "Periksa XxEntyZEROxX dan ikuti #placement2027 untuk pemutakhiran.",
+    "route": "Helsinki-NLP/opus-mt-en-id",
+    "review_status": "flagged",
+    "runtime_sec": 5.983,
+    "warnings": [
+      "1 placeholder(s) corrupted during translation"
+    ]
+  }
+]

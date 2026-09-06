@@ -1,0 +1,779 @@
+[
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "ta",
+    "raw_output": "ஹலோ, என் பெயர் XXCEentityxX மற்றும் நான் XXCentityZERX-இல் படிக்கிறோம்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "ta",
+    "raw_output": "ஹலோ, என் பெயர் XXCEentityxX மற்றும் நான் XXCentityZERX-இல் படிக்கிறோம்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "te",
+    "raw_output": "హలో, నా పేరు యొక్క XxCententiticxX మరియు నేను XxetantyZERX లో అధ్యయనం.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "ta",
+    "raw_output": "ஹலோ, என் பெயர் XXCEentityxX மற்றும் நான் XXCentityZERX-இல் படிக்கிறோம்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "te",
+    "raw_output": "హలో, నా పేరు యొక్క XxCententiticxX మరియు నేను XxetantyZERX లో అధ్యయనం.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "bn",
+    "raw_output": "হ্যালো, আমার নাম এক্সএক্সিটিঅন্যাক্স এবং আমি এক্সএক্সিটিজেনজেয়ারক্সে পড়াশোনা করি।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "mr",
+    "raw_output": "माझं नाव इ. स. पू.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "fr",
+    "raw_output": "Bonjour, je m'appelle XxEntityOnexX et j'étudie chez XxEntityZERoxX.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "ta",
+    "raw_output": "ஹலோ, என் பெயர் XXCEentityxX மற்றும் நான் XXCentityZERX-இல் படிக்கிறோம்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "te",
+    "raw_output": "హలో, నా పేరు యొక్క XxCententiticxX మరియు నేను XxetantyZERX లో అధ్యయనం.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "bn",
+    "raw_output": "হ্যালো, আমার নাম এক্সএক্সিটিঅন্যাক্স এবং আমি এক্সএক্সিটিজেনজেয়ারক্সে পড়াশোনা করি।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "mr",
+    "raw_output": "माझं नाव इ. स. पू.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "fr",
+    "raw_output": "Bonjour, je m'appelle XxEntityOnexX et j'étudie chez XxEntityZERoxX.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "id",
+    "raw_output": "Halo, nama saya XxEntityONExX dan saya belajar di XxEntityZEX.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम Xxeirixx है.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "My name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "मेरा नाम XxENENTEX है और मैं Xxixxxxx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "hi",
+    "raw_output": "यह घटना XxEREGENTEX सितंबर XEEXxOX पर शुरू होती है XEXXX:XxPENEXXX",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "hi",
+    "raw_output": "पैकेज वज़न XxENENTEXxENTEX और XXPEGENTEX रुपये का खर्च करता है.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "hi",
+    "raw_output": "XxEGEROxX जाँच करें और अद्यतन के लिए एक्सप्रयोगीएक्स का पालन करें.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "ta",
+    "raw_output": "ஹலோ, என் பெயர் XXCEentityxX மற்றும் நான் XXCentityZERX-இல் படிக்கிறோம்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "ta",
+    "raw_output": "இந்த நிகழ்வு, செப்டம்பரில் செக்ஸ்டின்டிடிட்டிவ்வோக்ஸால் துவங்குகிறது.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "ta",
+    "raw_output": "இந்த தொகுப்பு XxCententityxXXஐ எடை கொண்ட மற்றும் XxCententityeroxX செலுத்தும் செலவாகும்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "ta",
+    "raw_output": "XXCententatesericox ஐ சரிபார்த்து, புதிப்பிக்க xxentententalxXஐ பின்பற்றவும்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "te",
+    "raw_output": "హలో, నా పేరు యొక్క XxCententiticxX మరియు నేను XxetantyZERX లో అధ్యయనం.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "te",
+    "raw_output": "ఆ ఘటన XX యొక్క ఎడిటికల్‌టిటివ్‌టిటిటిటివ్ వ్యోక్స్‌ సెప్టెంటర్‌లో ప్రారంభమౌతుంది XXEDEC ONX:XDECTENTERDEX PM.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "te",
+    "raw_output": "ఆ ప్యాకేజీ XxCententityxXX oughtious computers",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "te",
+    "raw_output": "XXEDEDECOX తనిఖీచేయి మరియు నవీకరణల కోసం XxCententity componenticXను అనుసరించు.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "bn",
+    "raw_output": "হ্যালো, আমার নাম এক্সএক্সিটিঅন্যাক্স এবং আমি এক্সএক্সিটিজেনজেয়ারক্সে পড়াশোনা করি।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "bn",
+    "raw_output": "এই ঘটনার শুরু এক্সএক্সটিএক্স সেপ্টেম্বর XxEntityTOxX:XEntryOxX:XEntryZEROx PMM-এ শুরু হয়।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "bn",
+    "raw_output": "প্যাকেজের ওজন XxEntityOxX কিলোবাইট এবং XxEntityZEROX রুপ।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "bn",
+    "raw_output": "এক্সঅভ্যন্তররীণ পরীক্ষা করে আপডেটের জন্য XxEntityOnx অনুসরণ করুন।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "mr",
+    "raw_output": "माझं नाव इ. स. पू.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "mr",
+    "raw_output": "Abbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbb: A Abbbbbbbb: Abbbbbbbbbbbbbb: A Abbbbbb: A A Abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbbbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbbbbbbbbbbbbbbbbbb: Abb: Ab: Abbbbb",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "mr",
+    "raw_output": "ही किंमत सुमारे १,००,००० टनाच्या वजनापेक्षा अधिक आहे.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "mr",
+    "raw_output": "@ info: whatsthis",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "fr",
+    "raw_output": "Bonjour, je m'appelle XxEntityOnexX et j'étudie chez XxEntityZERoxX.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "fr",
+    "raw_output": "L'événement commence sur XxEntityTHREExX Septembre XxEntityTWoxX à XxEntityOnexX:XxEntityZERoxX PM.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "fr",
+    "raw_output": "Le paquet pèse XxEntityOnexX kg et coûte XxEntityZERoxX roupies.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "fr",
+    "raw_output": "Consultez XxEntityZERoxX et suivez XxEntityOnexX pour les mises à jour.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "de",
+    "raw_output": "Die Veranstaltung beginnt am XxEntityTHREExX September XxEntityTWoxX bei XxEntityONExX:XxEntityZEROXX PM.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityTWOxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "de",
+    "raw_output": "Das Paket wiegt XxEntityONExX kg und kostet XxEntityZEROXX Rupien.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "id",
+    "raw_output": "Halo, nama saya XxEntityONExX dan saya belajar di XxEntityZEX.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "id",
+    "raw_output": "Acara dimulai pada XxEntityTHREX September XxEnterityTWOxX di XxEnterityONExX:XxEntityZEX PM.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "id",
+    "raw_output": "Paket itu beratnya XxEntiityONEx kg dan biaya XxEnterityZEROX rupees.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "id",
+    "raw_output": "Periksa XxEntyZEROxX dan ikuti XxEntityONExX untuk pemutakhiran.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "hi",
+    "raw_output": "यह घटना XxEREGENTEX सितंबर XEEXxOX पर शुरू होती है XEXXX:XxPENEXXX",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "hi",
+    "raw_output": "पैकेज वज़न XxENENTEXxENTEX और XXPEGENTEX रुपये का खर्च करता है.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "hi",
+    "raw_output": "XxEGEROxX जाँच करें और अद्यतन के लिए एक्सप्रयोगीएक्स का पालन करें.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "ta",
+    "raw_output": "ஹலோ, என் பெயர் XXCEentityxX மற்றும் நான் XXCentityZERX-இல் படிக்கிறோம்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "ta",
+    "raw_output": "இந்த நிகழ்வு, செப்டம்பரில் செக்ஸ்டின்டிடிட்டிவ்வோக்ஸால் துவங்குகிறது.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "ta",
+    "raw_output": "இந்த தொகுப்பு XxCententityxXXஐ எடை கொண்ட மற்றும் XxCententityeroxX செலுத்தும் செலவாகும்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "ta",
+    "raw_output": "XXCententatesericox ஐ சரிபார்த்து, புதிப்பிக்க xxentententalxXஐ பின்பற்றவும்.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "te",
+    "raw_output": "హలో, నా పేరు యొక్క XxCententiticxX మరియు నేను XxetantyZERX లో అధ్యయనం.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "te",
+    "raw_output": "ఆ ఘటన XX యొక్క ఎడిటికల్‌టిటివ్‌టిటిటిటివ్ వ్యోక్స్‌ సెప్టెంటర్‌లో ప్రారంభమౌతుంది XXEDEC ONX:XDECTENTERDEX PM.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "te",
+    "raw_output": "ఆ ప్యాకేజీ XxCententityxXX oughtious computers",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "te",
+    "raw_output": "XXEDEDECOX తనిఖీచేయి మరియు నవీకరణల కోసం XxCententity componenticXను అనుసరించు.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "bn",
+    "raw_output": "হ্যালো, আমার নাম এক্সএক্সিটিঅন্যাক্স এবং আমি এক্সএক্সিটিজেনজেয়ারক্সে পড়াশোনা করি।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "bn",
+    "raw_output": "এই ঘটনার শুরু এক্সএক্সটিএক্স সেপ্টেম্বর XxEntityTOxX:XEntryOxX:XEntryZEROx PMM-এ শুরু হয়।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "bn",
+    "raw_output": "প্যাকেজের ওজন XxEntityOxX কিলোবাইট এবং XxEntityZEROX রুপ।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "bn",
+    "raw_output": "এক্সঅভ্যন্তররীণ পরীক্ষা করে আপডেটের জন্য XxEntityOnx অনুসরণ করুন।",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "mr",
+    "raw_output": "माझं नाव इ. स. पू.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "mr",
+    "raw_output": "Abbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbb: A Abbbbbbbb: Abbbbbbbbbbbbbb: A Abbbbbb: A A Abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbbbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbbbbbbbbbbbbbbbbbb: Abb: Ab: Abbbbb",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "mr",
+    "raw_output": "ही किंमत सुमारे १,००,००० टनाच्या वजनापेक्षा अधिक आहे.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "mr",
+    "raw_output": "@ info: whatsthis",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "de",
+    "raw_output": "Die Veranstaltung beginnt am XxEntityTHREExX September XxEntityTWoxX bei XxEntityONExX:XxEntityZEROXX PM.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityTWOxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "de",
+    "raw_output": "Das Paket wiegt XxEntityONExX kg und kostet XxEntityZEROXX Rupien.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "id",
+    "raw_output": "Halo, nama saya XxEntityONExX dan saya belajar di XxEntityZEX.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "id",
+    "raw_output": "Acara dimulai pada XxEntityTHREX September XxEnterityTWOxX di XxEnterityONExX:XxEntityZEX PM.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX",
+      "XxEntityTWOxX",
+      "XxEntityTHREExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "id",
+    "raw_output": "Paket itu beratnya XxEntiityONEx kg dan biaya XxEnterityZEROX rupees.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "id",
+    "raw_output": "Periksa XxEntyZEROxX dan ikuti XxEntityONExX untuk pemutakhiran.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "reason": "entity_preservation_failure"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "pt",
+    "translated_text": "Inscreva-se para mais vlogs de viagens todas as sextas-feiras!",
+    "route": "Helsinki-NLP/opus-mt-tc-big-en-pt",
+    "review_status": "ok",
+    "runtime_sec": 99.246,
+    "warnings": []
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "pt",
+    "translated_text": "Olá, meu nome é Mamthasha e estudo na SASTRA University.",
+    "route": "Helsinki-NLP/opus-mt-tc-big-en-pt",
+    "review_status": "ok",
+    "runtime_sec": 103.894,
+    "warnings": []
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "pt",
+    "translated_text": "O evento começa em 15 setembro 2026 em 6:30 PM.",
+    "route": "Helsinki-NLP/opus-mt-tc-big-en-pt",
+    "review_status": "ok",
+    "runtime_sec": 251.133,
+    "warnings": []
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "pt",
+    "translated_text": "O pacote pesa 12.5 kg e custa 499 rupias.",
+    "route": "Helsinki-NLP/opus-mt-tc-big-en-pt",
+    "review_status": "ok",
+    "runtime_sec": 178.224,
+    "warnings": []
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "pt",
+    "translated_text": "Confira https://sastra.edu e siga #placement2027 para atualizações.",
+    "route": "Helsinki-NLP/opus-mt-tc-big-en-pt",
+    "review_status": "ok",
+    "runtime_sec": 105.969,
+    "warnings": []
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "mr",
+    "translated_text": "भारतातील सावध राहा!",
+    "route": "Helsinki-NLP/opus-mt-en-mr",
+    "review_status": "ok",
+    "runtime_sec": 15.645,
+    "warnings": []
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "mr",
+    "translated_text": "माझं नाव इ. स. पू.",
+    "route": "Helsinki-NLP/opus-mt-en-mr",
+    "review_status": "flagged",
+    "runtime_sec": 1.118,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "mr",
+    "translated_text": "Abbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbb: A Abbbbbbbb: Abbbbbbbbbbbbbb: A Abbbbbb: A A Abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbbbbbbbbbbbbbbbbbbbbbbb: Abbbbbbbbbbbbbbbbbbbbbbbbb: Abb: Ab: Abbbbb",
+    "route": "Helsinki-NLP/opus-mt-en-mr",
+    "review_status": "flagged",
+    "runtime_sec": 39.274,
+    "warnings": [
+      "4 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "mr",
+    "translated_text": "ही किंमत सुमारे १,००,००० टनाच्या वजनापेक्षा अधिक आहे.",
+    "route": "Helsinki-NLP/opus-mt-en-mr",
+    "review_status": "flagged",
+    "runtime_sec": 2.916,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "mr",
+    "translated_text": "@ info: whatsthis",
+    "route": "Helsinki-NLP/opus-mt-en-mr",
+    "review_status": "flagged",
+    "runtime_sec": 1.363,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  }
+]

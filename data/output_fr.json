@@ -1,0 +1,37 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "fr",
+    "translated_text": "Inscrivez-vous pour plus de vlogs de voyage tous les vendredis!",
+    "review_status": "ok"
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "fr",
+    "translated_text": "Bonjour, je m'appelle XxEntityOnexX et j'étudie chez XxEntityZERoxX.",
+    "review_status": "flagged"
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "fr",
+    "translated_text": "L'événement commence sur 15 Septembre XxEntityTWoxX à XxEntityOnexX:XxEntityZERoxX PM.",
+    "review_status": "flagged"
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "fr",
+    "translated_text": "Le paquet pèse XxEntityOnexX kg et coûte XxEntityZERoxX roupies.",
+    "review_status": "flagged"
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "fr",
+    "translated_text": "Consultez XxEntityZERoxX et suivez XxEntityOnexX pour les mises à jour.",
+    "review_status": "flagged"
+  }
+]

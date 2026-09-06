@@ -1,0 +1,60 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "te",
+    "translated_text": "ప్రతి శుక్రవారం మరింత ప్రయాణం vlogs కోసం చందాదారులు!",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "ok",
+    "runtime_sec": 11.458,
+    "warnings": []
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "te",
+    "translated_text": "హలో, నా పేరు యొక్క XxCententiticxX మరియు నేను XxetantyZERX లో అధ్యయనం.",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "flagged",
+    "runtime_sec": 3.483,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "te",
+    "translated_text": "ఆ ఘటన XX యొక్క ఎడిటికల్‌టిటివ్‌టిటిటిటివ్ వ్యోక్స్‌ సెప్టెంటర్‌లో ప్రారంభమౌతుంది XXEDEC ONX:XDECTENTERDEX PM.",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "flagged",
+    "runtime_sec": 6.229,
+    "warnings": [
+      "4 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "te",
+    "translated_text": "ఆ ప్యాకేజీ XxCententityxXX oughtious computers",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "flagged",
+    "runtime_sec": 5.004,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "te",
+    "translated_text": "XXEDEDECOX తనిఖీచేయి మరియు నవీకరణల కోసం XxCententity componenticXను అనుసరించు.",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "flagged",
+    "runtime_sec": 4.192,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "hi",
+    "translated_text": "हर शुक्रवार अधिक यात्रा vells के लिए सदस्यता लें!",
+    "route": "Helsinki-NLP/opus-mt-en-hi",
+    "review_status": "ok",
+    "runtime_sec": 20.123,
+    "warnings": []
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "translated_text": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "route": "Helsinki-NLP/opus-mt-en-hi",
+    "review_status": "flagged",
+    "runtime_sec": 5.284,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "hi",
+    "translated_text": "यह घटना XxEREGENTEX सितंबर XEEXxOX पर शुरू होती है XEXXX:XxPENEXXX",
+    "route": "Helsinki-NLP/opus-mt-en-hi",
+    "review_status": "flagged",
+    "runtime_sec": 5.065,
+    "warnings": [
+      "4 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "hi",
+    "translated_text": "पैकेज वज़न XxENENTEXxENTEX और XXPEGENTEX रुपये का खर्च करता है.",
+    "route": "Helsinki-NLP/opus-mt-en-hi",
+    "review_status": "flagged",
+    "runtime_sec": 5.377,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "hi",
+    "translated_text": "XxEGEROxX जाँच करें और अद्यतन के लिए एक्सप्रयोगीएक्स का पालन करें.",
+    "route": "Helsinki-NLP/opus-mt-en-hi",
+    "review_status": "flagged",
+    "runtime_sec": 2.959,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Large runtime artifacts (regenerated, not source)
+
+data/_test_partial_output.json
+
+# OS files
+.DS_Store
+Thumbs.db

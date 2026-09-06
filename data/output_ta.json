@@ -1,0 +1,60 @@
+[
+  {
+    "id": "T001",
+    "source_text": "Subscribe for more travel vlogs every Friday!",
+    "target_lang": "ta",
+    "translated_text": "ஒவ்வொரு வெள்ளிக்கிழமையும் அதிக பயணிகளுக்கு சந்தா!",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "ok",
+    "runtime_sec": 20.02,
+    "warnings": []
+  },
+  {
+    "id": "T002",
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "ta",
+    "translated_text": "ஹலோ, என் பெயர் XXCEentityxX மற்றும் நான் XXCentityZERX-இல் படிக்கிறோம்.",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "flagged",
+    "runtime_sec": 4.09,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T003",
+    "source_text": "The event starts on 15 September 2026 at 6:30 PM.",
+    "target_lang": "ta",
+    "translated_text": "இந்த நிகழ்வு, செப்டம்பரில் செக்ஸ்டின்டிடிட்டிவ்வோக்ஸால் துவங்குகிறது.",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "flagged",
+    "runtime_sec": 3.058,
+    "warnings": [
+      "4 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T004",
+    "source_text": "The package weighs 12.5 kg and costs 499 rupees.",
+    "target_lang": "ta",
+    "translated_text": "இந்த தொகுப்பு XxCententityxXXஐ எடை கொண்ட மற்றும் XxCententityeroxX செலுத்தும் செலவாகும்.",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "flagged",
+    "runtime_sec": 3.793,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  },
+  {
+    "id": "T005",
+    "source_text": "Check out https://sastra.edu and follow #placement2027 for updates.",
+    "target_lang": "ta",
+    "translated_text": "XXCententatesericox ஐ சரிபார்த்து, புதிப்பிக்க xxentententalxXஐ பின்பற்றவும்.",
+    "route": "Helsinki-NLP/opus-mt-en-dra",
+    "review_status": "flagged",
+    "runtime_sec": 3.699,
+    "warnings": [
+      "2 placeholder(s) corrupted during translation"
+    ]
+  }
+]
