@@ -1,0 +1,72 @@
+[
+  {
+    "target_lang": "hi",
+    "runtime_sec": 27.74,
+    "peak_ram_mb": 650.8,
+    "review_status": "flagged",
+    "translated_text": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन."
+  },
+  {
+    "target_lang": "ta",
+    "runtime_sec": 24.44,
+    "peak_ram_mb": 636.1,
+    "review_status": "flagged",
+    "translated_text": "ஹலோ, என் பெயர் XXCEentityxX மற்றும் நான் XXCentityZERX-இல் படிக்கிறோம்."
+  },
+  {
+    "target_lang": "te",
+    "runtime_sec": 25.63,
+    "peak_ram_mb": 553.3,
+    "review_status": "flagged",
+    "translated_text": "హలో, నా పేరు యొక్క XxCententiticxX మరియు నేను XxetantyZERX లో అధ్యయనం."
+  },
+  {
+    "target_lang": "bn",
+    "runtime_sec": 24.37,
+    "peak_ram_mb": 300.9,
+    "review_status": "flagged",
+    "translated_text": "হ্যালো, আমার নাম এক্সএক্সিটিঅন্যাক্স এবং আমি এক্সএক্সিটিজেনজেয়ারক্সে পড়াশোনা করি।"
+  },
+  {
+    "target_lang": "mr",
+    "runtime_sec": 13.8,
+    "peak_ram_mb": 532.8,
+    "review_status": "flagged",
+    "translated_text": "माझं नाव इ. स. पू."
+  },
+  {
+    "target_lang": "es",
+    "runtime_sec": 18.11,
+    "peak_ram_mb": 537.6,
+    "review_status": "ok",
+    "translated_text": "Hola, mi nombre es Mamthasha y estudio en SASTRA University."
+  },
+  {
+    "target_lang": "fr",
+    "runtime_sec": 20.03,
+    "peak_ram_mb": 529.3,
+    "review_status": "flagged",
+    "translated_text": "Bonjour, je m'appelle XxEntityOnexX et j'étudie chez XxEntityZERoxX."
+  },
+  {
+    "target_lang": "de",
+    "runtime_sec": 20.62,
+    "peak_ram_mb": 528.7,
+    "review_status": "ok",
+    "translated_text": "Hallo, mein Name ist Mamthasha und ich studiere an SASTRA University."
+  },
+  {
+    "target_lang": "pt",
+    "runtime_sec": 191.75,
+    "peak_ram_mb": 466.4,
+    "review_status": "ok",
+    "translated_text": "Olá, meu nome é Mamthasha e estudo na SASTRA University."
+  },
+  {
+    "target_lang": "id",
+    "runtime_sec": 25.01,
+    "peak_ram_mb": 516.7,
+    "review_status": "flagged",
+    "translated_text": "Halo, nama saya Mamthasha dan saya belajar di XxEntityZEX."
+  }
+]

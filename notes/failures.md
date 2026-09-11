@@ -95,3 +95,32 @@ output file before starting, skipping them on re-run.
 **Test plan:** Start a batch, interrupt with Ctrl+C after 2-3 items complete,
 re-run the same command, confirm completed items are skipped and only
 remaining items are processed.
+
+## F008 — Background job interruption corrupted cached model weights
+**Date:** 2026-09-06
+**Problem:** Using PowerShell Start-Job/Stop-Job to force-interrupt a batch run
+left the Hindi model's cached checkpoint corrupted — subsequent loads showed
+embed_tokens/lm_head weights as "MISSING" and randomly reinitialized, which
+would silently produce garbage translations if not caught.
+**Root cause:** Stop-Job does not reliably terminate a native child process
+(python.exe) launched inside the job script block, risking a mid-write file
+corruption if the process was touching the HF cache at that moment.
+**Fix:** Deleted the corrupted model cache folder, allowed clean re-download.
+Switched to manual Ctrl+C in a foreground terminal for interruption testing
+instead of background jobs, which terminates the process immediately and
+predictably.
+**Status:** Resolved. Also a good reminder: model-loading code should ideally
+validate that no weights are unexpectedly "MISSING" before trusting output —
+noted as a possible improvement, not implemented given time constraints.
+
+## F009 — Benchmark script exhausted memory holding multiple models simultaneously
+**Date:** 2026-09-06
+**Problem:** benchmark.py failed with "paging file too small" after 5
+languages, because translate()'s model cache keeps every loaded model in
+RAM permanently — fine for a single CLI call, but fatal when benchmarking
+10 languages in one process on a 4GB RAM machine.
+**Root cause:** _model_cache in translate.py never evicts old entries.
+**Fix:** benchmark.py now explicitly clears the model cache and forces
+garbage collection after each language, ensuring only one model is held
+in memory at a time during benchmarking.
+**Status:** Resolved.

@@ -3,12 +3,13 @@ import os
 import json
 
 try:
-    from src.translate import translate, DIRECT_MODELS, DRAVIDIAN_MODEL, INDIC_MODEL
+    from src.translate import translate, DIRECT_MODELS, DRAVIDIAN_MODEL, INDIC_MODEL, _model_cache
     from src.entity_protect import load_glossary
 except ImportError:
-    from translate import translate, DIRECT_MODELS, DRAVIDIAN_MODEL, INDIC_MODEL
+    from translate import translate, DIRECT_MODELS, DRAVIDIAN_MODEL, INDIC_MODEL, _model_cache
     from entity_protect import load_glossary
 
+import gc
 import psutil
 
 
@@ -59,6 +60,11 @@ def run_benchmark():
         results.append(r)
         print(f"  runtime: {r['runtime_sec']}s | peak RAM: {r['peak_ram_mb']}MB | status: {r['review_status']}")
 
+        # Free the model from memory before loading the next one —
+        # necessary on this 4GB RAM machine to avoid the pagefile/
+        # memory exhaustion seen when holding multiple models at once.
+        _model_cache.clear()
+        gc.collect()
     os.makedirs("data", exist_ok=True)
     with open("data/benchmark_results.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
