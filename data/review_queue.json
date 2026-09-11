@@ -1295,5 +1295,107 @@
     "entity_check_failed": true,
     "language_id_check_failed": false,
     "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "detected_language": "hi",
+    "entity_check_failed": true,
+    "language_id_check_failed": false,
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "My name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "मेरा नाम XxENENTEX है और मैं Xxixxxxx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "detected_language": "hi",
+    "entity_check_failed": true,
+    "language_id_check_failed": false,
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम Xxeirixx है.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "detected_language": "hi",
+    "entity_check_failed": true,
+    "language_id_check_failed": false,
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "My name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "मेरा नाम XxENENTEX है और मैं Xxixxxxx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "detected_language": "hi",
+    "entity_check_failed": true,
+    "language_id_check_failed": false,
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम XxENTENEX है और मैं XxERONOx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "detected_language": "hi",
+    "entity_check_failed": true,
+    "language_id_check_failed": false,
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "My name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "मेरा नाम XxENENTEX है और मैं Xxixxxxx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "detected_language": "hi",
+    "entity_check_failed": true,
+    "language_id_check_failed": false,
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "Hello, my name is Mamthasha.",
+    "target_lang": "hi",
+    "raw_output": "हैलो, मेरा नाम Xxeirixx है.",
+    "missing_placeholders": [
+      "XxEntityZEROxX"
+    ],
+    "detected_language": "hi",
+    "entity_check_failed": true,
+    "language_id_check_failed": false,
+    "reason": "entity_preservation_failure"
+  },
+  {
+    "source_text": "My name is Mamthasha and I study at SASTRA University.",
+    "target_lang": "hi",
+    "raw_output": "मेरा नाम XxENENTEX है और मैं Xxixxxxx पर अध्ययन.",
+    "missing_placeholders": [
+      "XxEntityZEROxX",
+      "XxEntityONExX"
+    ],
+    "detected_language": "hi",
+    "entity_check_failed": true,
+    "language_id_check_failed": false,
+    "reason": "entity_preservation_failure"
   }
 ]

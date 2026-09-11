@@ -124,3 +124,17 @@ RAM permanently — fine for a single CLI call, but fatal when benchmarking
 garbage collection after each language, ensuring only one model is held
 in memory at a time during benchmarking.
 **Status:** Resolved.
+
+## F010 — NLLB-600M could not be practically evaluated on available hardware
+
+**Date:** 2026-09-06
+
+**Model:** facebook/nllb-200-distilled-600M
+
+**Problem:** The NLLB-200 distilled 600M model was attempted as a possible alternative for broader multilingual coverage. On the available CPU-only laptop with 4GB RAM and no GPU, model loading was extremely slow and did not complete reliably within the available execution time. The process reached approximately 93% during model loading before the laptop went to sleep.
+
+**Root cause:** NLLB-600M has substantially higher resource requirements than the lightweight OPUS-MT models used for the Baseline implementation. The available hardware was insufficient for practical evaluation within the assessment constraints.
+
+**Decision:** NLLB was not included in the final Baseline pipeline. The project uses Helsinki-NLP OPUS-MT models because they were more practical for CPU-only execution on the available hardware.
+
+**Status:** Not used due to hardware/resource constraints. No NLLB benchmark or quality result is claimed.
